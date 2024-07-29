@@ -31,6 +31,3 @@ This project contains code for converting images into cartoon-like representatio
 - Python 3.x
 - Required libraries: `math`, `sys`
 
-## Contact
-
-For more information or to contribute, please contact Shimon Ifrach at https://www.linkedin.com/in/shimon-ifrach-a022b5215/.
